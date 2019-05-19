@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1558240487 source:c:\users\kagaya\desktop\c_tutorial\lesson\01_data_types\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<float.h>
+
